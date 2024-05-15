@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-01T13:52:54 IST" name="Default suite" finished-at="2024-05-01T13:52:54 IST" duration-ms="55">
+    <groups>
+    </groups>
+    <test started-at="2024-05-01T13:52:54 IST" name="Default test" finished-at="2024-05-01T13:52:54 IST" duration-ms="55">
+      <class name="TestNG.TestNG_test_.Priorities_2">
+        <test-method signature="d()[pri:-2, instance:TestNG.TestNG_test_.Priorities_2@5f9b2141]" started-at="2024-05-01T13:52:54 IST" name="d" finished-at="2024-05-01T13:52:54 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+        <test-method signature="c()[pri:-1, instance:TestNG.TestNG_test_.Priorities_2@5f9b2141]" started-at="2024-05-01T13:52:54 IST" name="c" finished-at="2024-05-01T13:52:54 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+        <test-method signature="a()[pri:0, instance:TestNG.TestNG_test_.Priorities_2@5f9b2141]" started-at="2024-05-01T13:52:54 IST" name="a" finished-at="2024-05-01T13:52:54 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method signature="b()[pri:0, instance:TestNG.TestNG_test_.Priorities_2@5f9b2141]" started-at="2024-05-01T13:52:54 IST" name="b" finished-at="2024-05-01T13:52:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+      </class> <!-- TestNG.TestNG_test_.Priorities_2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
